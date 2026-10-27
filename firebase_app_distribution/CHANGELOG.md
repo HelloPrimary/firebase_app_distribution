@@ -1,3 +1,7 @@
+## 1.3.2
+
+ - **FIX**: move repository to HelloPrimary.
+
 ## 1.3.1
 
  - Update a dependency to the latest release.

@@ -1,3 +1,7 @@
+## 1.3.2
+
+ - **FIX**: move repository to HelloPrimary.
+
 ## 1.3.1
 
  - **FIX**(android): respect android.builtInKotlin and keep old KGP path compiling.

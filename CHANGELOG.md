@@ -3,6 +3,42 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2026-10-27
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
+ - [`firebase_app_distribution` - `v1.3.2`](#firebase_app_distribution---v132)
+ - [`firebase_app_distribution_android` - `v1.3.2`](#firebase_app_distribution_android---v132)
+ - [`firebase_app_distribution_ios` - `v1.3.1`](#firebase_app_distribution_ios---v131)
+ - [`firebase_app_distribution_platform_interface` - `v1.3.1`](#firebase_app_distribution_platform_interface---v131)
+
+---
+
+#### `firebase_app_distribution` - `v1.3.2`
+
+ - **FIX**: move repository to HelloPrimary.
+
+#### `firebase_app_distribution_android` - `v1.3.2`
+
+ - **FIX**: move repository to HelloPrimary.
+
+#### `firebase_app_distribution_ios` - `v1.3.1`
+
+ - **FIX**: move repository to HelloPrimary.
+
+#### `firebase_app_distribution_platform_interface` - `v1.3.1`
+
+ - **FIX**: move repository to HelloPrimary.
+
+
 ## 2026-10-01
 
 ### Changes

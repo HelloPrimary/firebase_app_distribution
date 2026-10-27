@@ -1,3 +1,7 @@
+## 1.3.1
+
+ - **FIX**: move repository to HelloPrimary.
+
 ## 1.3.0
 
  - **FEAT**: add support for checking and updating releases with download progress.
