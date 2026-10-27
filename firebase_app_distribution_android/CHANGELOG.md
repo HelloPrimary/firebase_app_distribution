@@ -1,3 +1,7 @@
+## 1.4.0
+
+ - **FEAT**: support firebase_core 5 (Firebase Apple SDK 13, Android BoM 35).
+
 ## 1.3.2
 
  - **FIX**: move repository to HelloPrimary.

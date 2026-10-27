@@ -15,6 +15,39 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`firebase_app_distribution_android` - `v1.4.0`](#firebase_app_distribution_android---v140)
+ - [`firebase_app_distribution_ios` - `v1.4.0`](#firebase_app_distribution_ios---v140)
+ - [`firebase_app_distribution` - `v1.3.3`](#firebase_app_distribution---v133)
+
+Packages with dependency updates only:
+
+> Packages listed below depend on other packages in this workspace that have had changes. Their versions have been incremented to bump the minimum dependency versions of the packages they depend upon in this project.
+
+ - `firebase_app_distribution` - `v1.3.3`
+
+---
+
+#### `firebase_app_distribution_android` - `v1.4.0`
+
+ - **FEAT**: support firebase_core 5 (Firebase Apple SDK 13, Android BoM 35).
+
+#### `firebase_app_distribution_ios` - `v1.4.0`
+
+ - **FEAT**: support firebase_core 5 (Firebase Apple SDK 13, Android BoM 35).
+
+
+## 2026-10-27
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`firebase_app_distribution` - `v1.3.2`](#firebase_app_distribution---v132)
  - [`firebase_app_distribution_android` - `v1.3.2`](#firebase_app_distribution_android---v132)
  - [`firebase_app_distribution_ios` - `v1.3.1`](#firebase_app_distribution_ios---v131)
