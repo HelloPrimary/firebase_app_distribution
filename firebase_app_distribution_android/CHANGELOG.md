@@ -1,3 +1,8 @@
+## 1.4.1
+
+ - **FIX**(android): add FirebaseAppDistributionTheme style and document theming (#10).
+ - **FIX**(android): default AppCompat theme for App Distribution activities (#10).
+
 ## 1.4.0
 
  - **FEAT**: support firebase_core 5 (Firebase Apple SDK 13, Android BoM 35).

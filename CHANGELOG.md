@@ -3,6 +3,35 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2026-11-02
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
+ - [`firebase_app_distribution_android` - `v1.4.1`](#firebase_app_distribution_android---v141)
+ - [`firebase_app_distribution` - `v1.3.4`](#firebase_app_distribution---v134)
+
+Packages with dependency updates only:
+
+> Packages listed below depend on other packages in this workspace that have had changes. Their versions have been incremented to bump the minimum dependency versions of the packages they depend upon in this project.
+
+ - `firebase_app_distribution` - `v1.3.4`
+
+---
+
+#### `firebase_app_distribution_android` - `v1.4.1`
+
+ - **FIX**(android): add FirebaseAppDistributionTheme style and document theming (#10).
+ - **FIX**(android): default AppCompat theme for App Distribution activities (#10).
+
+
 ## 2026-10-27
 
 ### Changes
