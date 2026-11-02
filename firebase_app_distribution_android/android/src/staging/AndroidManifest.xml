@@ -1,0 +1,20 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+  <!--
+    The Firebase App Distribution SDK declares these AppCompat activities without a theme, so they
+    inherit the <application> theme. Flutter apps usually don't set one, which crashes with
+    "You need to use a Theme.AppCompat theme (or descendant) with this activity".
+    Give them an AppCompat theme by default. Apps can customize it by defining a style named
+    FirebaseAppDistributionTheme, or override it per activity with tools:replace="android:theme".
+  -->
+  <application>
+    <activity
+      android:name="com.google.firebase.appdistribution.impl.InstallActivity"
+      android:theme="@style/FirebaseAppDistributionTheme" />
+    <activity
+      android:name="com.google.firebase.appdistribution.impl.SignInResultActivity"
+      android:theme="@style/FirebaseAppDistributionTheme" />
+    <activity
+      android:name="com.google.firebase.appdistribution.impl.TakeScreenshotAndStartFeedbackActivity"
+      android:theme="@style/FirebaseAppDistributionTheme" />
+  </application>
+</manifest>
