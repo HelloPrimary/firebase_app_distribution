@@ -23,6 +23,16 @@ Future<void> signInTester()
 Future<void> signOutTester()
 ```
 
+## Android theming
+
+The Firebase App Distribution screens (install / sign-in) use an AppCompat theme provided by the
+plugin. To customize it, define a style named `FirebaseAppDistributionTheme` in your app's
+`android/app/src/main/res/values/styles.xml`; it must extend a `Theme.AppCompat.*` theme:
+
+```xml
+<style name="FirebaseAppDistributionTheme" parent="Theme.AppCompat.DayNight.NoActionBar" />
+```
+
 ## Contribute
 
 - [ ] Fork the repo
